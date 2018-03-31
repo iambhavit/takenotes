@@ -461,6 +461,7 @@ public class MainActivity extends AppCompatActivity implements NotesRecyclerAdap
         }
     };
     private void onchnge(){
+        int i=0;
         //todo
     }
 }
